@@ -6,7 +6,7 @@
   "scenarios": [
     {
       "title": "python简介",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
       "steps": [
         {
           "title": "python简介",
