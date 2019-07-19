@@ -102,7 +102,7 @@ print([1,2,3] * 3)
 
 这个练习的目标是创建两个列表称为x_list和y_list区，其中包含变量的10个实例x，并y分别。您还需要创建一个名为列表big_list，其中包含变量x和y，每组10次，通过连接你已经创建了两个列表。
 
-代码示例如下：
+需要修改的代码段如下：
 
 ```r
 x = object()
@@ -112,6 +112,28 @@ y = object()
 x_list = [x]
 y_list = [y]
 big_list = []
+
+print("x_list contains %d objects" % len(x_list))
+print("y_list contains %d objects" % len(y_list))
+print("big_list contains %d objects" % len(big_list))
+
+# testing code
+if x_list.count(x) == 10 and y_list.count(y) == 10:
+    print("Almost there...")
+if big_list.count(x) == 10 and big_list.count(y) == 10:
+    print("Great!")
+```
+
+修改完成后的代码如下：
+
+```r
+x = object()
+y = object()
+
+# TODO: change this code
+x_list = [x] * 10
+y_list = [y] * 10
+big_list = x_list + y_list
 
 print("x_list contains %d objects" % len(x_list))
 print("y_list contains %d objects" % len(y_list))
