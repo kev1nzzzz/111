@@ -63,7 +63,7 @@ A list: [1, 2, 3]
 
 尝试编写一个格式字符串，使用以下语法打印出数据： Hello John Doe. Your current balance is $53.44.
 
-代码示例如下：
+在下面代码段上进行修改：
 
 ```r
 data = ("John", "Doe", 53.44)
@@ -72,7 +72,16 @@ format_string = "Hello"
 print(format_string % data)
 ```
 
-结果如下：
+修改完成的代码段如下：
+
+```r
+data = ("John", "Doe", 53.44)
+format_string = "Hello %s %s. Your current balance is $%s."
+
+print(format_string % data)
+```
+
+输出结果如下：
 
 ```r
 <script.py> output:
