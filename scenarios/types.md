@@ -90,6 +90,8 @@ print(one + two + hello)
 
 此练习的目标是创建字符串，整数和浮点数。该字符串应该命名，mystring并应包含单词“hello”。浮点数应该命名myfloat并且应该包含数字10.0，并且应该命名整数myint并且应该包含数字20。
 
+需要修改的代码如下：
+
 ```r
 # change this code
 mystring = None
@@ -103,4 +105,30 @@ if isinstance(myfloat, float) and myfloat == 10.0:
     print("Float: %f" % myfloat)
 if isinstance(myint, int) and myint == 20:
     print("Integer: %d" % myint)
+```
+
+修改之后代码为：
+
+```r
+# change this code
+mystring = "hello"
+myfloat = 10.0
+myint = 20
+
+# testing code
+if mystring == "hello":
+    print("String: %s" % mystring)
+if isinstance(myfloat, float) and myfloat == 10.0:
+    print("Float: %f" % myfloat)
+if isinstance(myint, int) and myint == 20:
+    print("Integer: %d" % myint)
+```
+
+输出结果为：
+
+```r
+<script.py> output:
+    String: hello
+    Float: 10.000000
+    Integer: 20
 ```
