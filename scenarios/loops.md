@@ -1,6 +1,6 @@
 # **基础知识学习**
 
-## **python中的循环语句**
+## **Python中的循环语句**
 
 python和c,c++类似，有两种类型的循环，分别是for和while。但是python中没有do while循环。
 
@@ -57,7 +57,7 @@ for x in range(3, 8, 2):
 7
 ```
 
-### **"while"循环"
+### **"while"循环"**
 
 while循环中会给定某个条件，在给定的判断条件为 true 时执行循环体，否则退出循环体。
 
