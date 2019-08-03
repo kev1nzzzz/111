@@ -10,7 +10,7 @@
       "steps": [
         {
           "title": "python简介",
-          "text": "scenarios/python.md",
+          "text": "scenarios/python.md"
         }
       ]
     },
@@ -20,7 +20,7 @@
       "steps": [
         {
           "title": "hello world!",
-          "text": "scenarios/helloworld.md",
+          "text": "scenarios/helloworld.md"
         }
       ]
     },
@@ -30,7 +30,7 @@
       "steps": [
         {
           "title": "基本变量类型",
-          "text": "scenarios/types.md",
+          "text": "scenarios/types.md"
         }
       ]
     },
@@ -40,7 +40,7 @@
       "steps": [
         {
           "title": "列表构建",
-          "text": "scenarios/lists.md",
+          "text": "scenarios/lists.md"
         }
       ]
     },
@@ -50,7 +50,7 @@
       "steps": [
         {
           "title": "基本运算符的使用",
-          "text": "scenarios/BasicOperations.md",
+          "text": "scenarios/BasicOperations.md"
         }
       ]
     },
@@ -60,7 +60,7 @@
       "steps": [
         {
           "title": "字符串格式",
-          "text": "scenarios/string.md",
+          "text": "scenarios/string.md"
         }
       ]
     },
@@ -70,7 +70,7 @@
       "steps": [
         {
           "title": "基本字符串操作",
-          "text": "scenarios/stringoperations.md",
+          "text": "scenarios/stringoperations.md"
         }
       ]
     },
@@ -80,7 +80,7 @@
       "steps": [
         {
           "title": "Conditions",
-          "text": "scenarios/conditions.md",
+          "text": "scenarios/conditions.md"
         }
       ]
     },
@@ -90,7 +90,7 @@
       "steps": [
         {
           "title": "循环类型介绍",
-          "text": "scenarios/loops.md",
+          "text": "scenarios/loops.md"
         }
       ]
     },
@@ -100,7 +100,7 @@
       "steps": [
         {
           "title": "函数编写",
-          "text": "scenarios/Functions.md",
+          "text": "scenarios/Functions.md"
         }
       ]
     },
@@ -110,7 +110,7 @@
       "steps": [
         {
           "title": "类和对象",
-          "text": "scenarios/ClassesandObjects.md",
+          "text": "scenarios/ClassesandObjects.md"
         }
       ]
     },
@@ -120,7 +120,7 @@
       "steps": [
         {
           "title": "字典",
-          "text": "scenarios/Dictionaries.md",
+          "text": "scenarios/Dictionaries.md"
         }
       ]
     },
@@ -130,7 +130,7 @@
       "steps": [
         {
           "title": "模块和包",
-          "text": "scenarios/modules.md",
+          "text": "scenarios/modules.md"
         }
       ]
     },
@@ -140,7 +140,7 @@
       "steps": [
         {
           "title": "Numpy数组",
-          "text": "scenarios/NumpyArrays.md",
+          "text": "scenarios/NumpyArrays.md"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "steps": [
         {
           "title": "pandas基础知识",
-          "text": "scenarios/pandas.md",
+          "text": "scenarios/pandas.md"
         }
       ]
     },
@@ -160,7 +160,7 @@
       "steps": [
         {
           "title": "Generators",
-          "text": "scenarios/Generators.md",
+          "text": "scenarios/Generators.md"
         }
       ]
     },
@@ -170,7 +170,7 @@
       "steps": [
         {
           "title": "列表生成器",
-          "text": "scenarios/listcomprehensions.md",
+          "text": "scenarios/listcomprehensions.md"
         }
       ]
     },
@@ -180,7 +180,7 @@
       "steps": [
         {
           "title": "Multiple Function Arguments",
-          "text": "scenarios/MultipleFunctionArguments.md",
+          "text": "scenarios/MultipleFunctionArguments.md"
         }
       ]
     },
@@ -190,7 +190,7 @@
       "steps": [
         {
           "title": "正则表达式",
-          "text": "scenarios/regularexpression.md",
+          "text": "scenarios/regularexpression.md"
         }
       ]
     },
@@ -200,7 +200,7 @@
       "steps": [
         {
           "title": "错误处理",
-          "text": "scenarios/exceptionhandling.md",
+          "text": "scenarios/exceptionhandling.md"
         }
       ]
     },
@@ -210,7 +210,7 @@
       "steps": [
         {
           "title": "sets",
-          "text": "scenarios/sets.md",
+          "text": "scenarios/sets.md"
         }
       ]
     },
@@ -220,7 +220,7 @@
       "steps": [
         {
           "title": "序列化",
-          "text": "scenarios/serialization.md",
+          "text": "scenarios/serialization.md"
         }
       ]
     },
@@ -230,7 +230,7 @@
       "steps": [
         {
           "title": "偏函数",
-          "text": "scenarios/partialfunctions.md",
+          "text": "scenarios/partialfunctions.md"
         }
       ]
     },
@@ -240,7 +240,7 @@
       "steps": [
         {
           "title": "代码内省",
-          "text": "scenarios/introspection.md",
+          "text": "scenarios/introspection.md"
         }
       ]
     },
@@ -250,7 +250,7 @@
       "steps": [
         {
           "title": "闭包",
-          "text": "scenarios/closure.md",
+          "text": "scenarios/closure.md"
         }
       ]
     },
@@ -260,7 +260,7 @@
       "steps": [
         {
           "title": "装饰器",
-          "text": "scenarios/decorators.md",
+          "text": "scenarios/decorators.md"
         }
       ]
     }
