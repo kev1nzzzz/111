@@ -15,11 +15,11 @@
       ]
     },
 	{
-      "title": "hello world!",
+      "title": "Hello World!",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
       "steps": [
         {
-          "title": "hello world!",
+          "title": "Hello World!",
           "text": "scenarios/helloworld.md"
         }
       ]
@@ -75,11 +75,11 @@
       ]
     },
 	{
-      "title": "Conditions",
+      "title": "条件语句介绍",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
       "steps": [
         {
-          "title": "Conditions",
+          "title": "条件语句介绍",
           "text": "scenarios/conditions.md"
         }
       ]
@@ -175,11 +175,11 @@
       ]
     },
 	{
-      "title": "Multiple Function Arguments",
+      "title": "多函数参数",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
       "steps": [
         {
-          "title": "Multiple Function Arguments",
+          "title": "多函数参数",
           "text": "scenarios/MultipleFunctionArguments.md"
         }
       ]
@@ -205,11 +205,11 @@
       ]
     },
 	{
-      "title": "sets",
+      "title": "集",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-ecienvs:python",
       "steps": [
         {
-          "title": "sets",
+          "title": "集",
           "text": "scenarios/sets.md"
         }
       ]
